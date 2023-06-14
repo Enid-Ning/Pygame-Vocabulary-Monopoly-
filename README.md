@@ -1,5 +1,5 @@
 # Pygame-Vocabulary-Monopoly
-It is a game that allow two player to memorize vocabularies while playing 大富翁(monopoly).
+It is a game that allows two players to memorize vocabularies while playing 大富翁(monopoly).
 
 1. Compilation Environment: Spyder on Mac.
 2. The in-game language is Chinese.
